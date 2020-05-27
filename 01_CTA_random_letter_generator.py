@@ -2,7 +2,7 @@
 
 import random
 
-letters = ["C","O","F","E"]
+letters = ["C","O","F","F","E","E"]
 
 for item in range(0,20):
     chosen_letters = random.choice(letters)
